@@ -21,3 +21,12 @@ footer{
   .black2 {
     color: black;
   }
+
+  .button {
+    text-align: left; /
+}
+
+.button li {
+    display: inline-block;
+    margin-right: 10px; 
+}

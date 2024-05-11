@@ -6,6 +6,7 @@
 footer {
     background-color: #2F303A;
     color: white;
+
 }
 
 button {
@@ -18,7 +19,7 @@ button {
   }
   
   .black2 {
-    color: black;
+    color: white;
   }
   
   .blue2 {
@@ -35,4 +36,14 @@ button {
 
 #webstydio-link {
   color: inherit;
+  color: white;
+}
+
+.link 
+  {
+    opacity: 0.6;
+}
+
+.address {
+  opacity: 0.6;
 }
