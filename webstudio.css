@@ -19,7 +19,7 @@ button {
   }
   
   .black2 {
-    color: white;
+    color: #000000;
   }
   
   .blue2 {
@@ -29,10 +29,6 @@ button {
   .white {
     color: white;
   }
-  
-  #webstydio-link {
-    opacity: 0.6;
-}
 
 #webstydio-link {
   color: inherit;
@@ -46,4 +42,12 @@ button {
 
 .address {
   opacity: 0.6;
+}
+
+.blue-black {
+  color: white;
+}
+
+a {
+  text-decoration: none;
 }

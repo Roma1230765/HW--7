@@ -6,11 +6,11 @@ footer{
     background-color: #2196F3
 }
 
-#webstydio-link {
+#webstudio-link {
     opacity: 0.6;
 }
 
-#webstydio-link {
+#webstudio-link {
     color: inherit;
   }
 
@@ -30,3 +30,14 @@ footer{
     display: inline-block;
     margin-right: 10px; 
 }
+
+a {
+  text-decoration: none;
+}
+
+.address {
+  opacity: 0.6;
+  color: white;
+}
+
+
