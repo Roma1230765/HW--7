@@ -36,8 +36,7 @@ button {
 }
 
 .address {
-  opacity: 0.6;
-  color: white;
+  color: #ffffff60;
 }
 
 .footer-link {
@@ -50,5 +49,9 @@ button {
 
 a {
   text-decoration: none;
+}
+
+.list-title {
+  color: #757575;
 }
 
