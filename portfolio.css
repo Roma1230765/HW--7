@@ -31,8 +31,14 @@ a {
   text-decoration: none;
 }
 
-.address {
-  color: #ffffff60;
+h3 {
+  color: #757575;
 }
 
+.address {
+  color: #ffffff;
+}
 
+.address-link {
+  color: #ffffff60;
+}

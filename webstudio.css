@@ -35,12 +35,8 @@ button {
   color: white;
 }
 
-.address {
-  color: #ffffff60;
-}
-
 .footer-link {
-  color: white;
+  color: #ffffff60;
 }
 
 .blue-black {
@@ -56,6 +52,10 @@ a {
 }
 
 .list-paragraf {
+  color: #757575;
+}
+
+.list-name {
   color: #757575;
 }
 
