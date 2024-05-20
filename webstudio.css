@@ -56,8 +56,15 @@ a {
 }
 
 .list-name {
+  color: #212121;
+}
+
+.navigation-link {
   color: #757575;
 }
 
+.navigation-links {
+  color:  #212121;
+}
 
 

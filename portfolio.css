@@ -19,7 +19,9 @@ footer{
   }
 
   .button {
-    text-align: left; /
+    text-align: left; 
+    color: #212121;
+    background-color: #F5F4FA;
 }
 
 .button li {
@@ -32,7 +34,7 @@ a {
 }
 
 h3 {
-  color: #757575;
+  color: #212121;
 }
 
 .address {
@@ -41,4 +43,8 @@ h3 {
 
 .address-link {
   color: #ffffff60;
+}
+
+p {
+  color: #757575;
 }
