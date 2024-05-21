@@ -1,4 +1,4 @@
-.black{
+.hero{
     background-color: #2F303A;
     color: white;
 }
@@ -30,7 +30,7 @@ button {
     color: white;
   }
 
-#webstydio-link {
+#footer-logo {
   color: inherit;
   color: white;
 }
@@ -59,11 +59,11 @@ a {
   color: #212121;
 }
 
-.navigation-link {
+.header-link {
   color: #757575;
 }
 
-.navigation-links {
+.header-links {
   color:  #212121;
 }
 
