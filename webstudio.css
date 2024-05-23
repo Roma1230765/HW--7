@@ -1,46 +1,57 @@
+:root{
+  --accent-color:#2196F3;
+--logo-color: #000;
+--text-color:#212121;
+--additional-color: #757575;
+--footer-namber:rgba(255, 255, 255, 0.60);
+--footer-background: #2F303A;
+--team-background:#F5F4FA;
+--main-background:#FFF;
+}
+
 .hero{
-    background-color: #2F303A;
-    color: white;
+    background-color:var(--footer-background);
+    color:var(--main-background);
 }
 
 footer {
-    background-color: #2F303A;
-    color: white;
+    background-color: var(--footer-background);
+    color: var(--main-background);
 
 }
 
 button {
-    background-color: #2196F3;
-    color: white;
+    background-color:var(--accent-color);
+    color: var(--main-background);
 }
 
 .blue {
-    color: #2196F3;
+    color: var(--accent-color);
   }
   
   .black2 {
-    color: #000000;
+    color: var(--logo-color);
   }
   
   .blue2 {
-    color: #2196F3;
+    color: var(--accent-color);
   }
   
   .white {
-    color: white;
+    color: var(--main-background);
   }
 
 #footer-logo {
   color: inherit;
-  color: white;
+  color: var(--main-background);
 }
 
 .footer-link {
-  color: #ffffff60;
+  color:var(--main-background60);
 }
 
 .blue-black {
-  color: white;
+  color: var(--main-background);
 }
 
 a {
@@ -48,23 +59,23 @@ a {
 }
 
 .list-title {
-  color: #212121;
+  color: var(--logo-color);
 }
 
 .list-paragraf {
-  color: #757575;
+  color:var(--additional-color);
 }
 
 .list-name {
-  color: #212121;
+  color: var(--logo-color);
 }
 
 .header-link {
-  color: #757575;
+  color: var(--additional-color);
 }
 
 .header-links {
-  color:  #212121;
+  color:  var(--logo-color);
 }
 
 
